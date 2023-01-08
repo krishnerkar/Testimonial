@@ -113,6 +113,7 @@ export default function Home() {
           <h1
             style={{
               fontSize: "90px",
+              width: "fit-content",
             }}
             className={calSans.className}
           >
