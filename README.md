@@ -2,6 +2,8 @@
 
 ### This is a simple application built to collect testimonials from people.
 
+![image](https://user-images.githubusercontent.com/49949733/211215931-ef0166d2-5103-4f5c-843b-95be711e1931.png)
+
 ## Customise it for yourself
 
 First, run the development server:
